@@ -1,0 +1,28 @@
+{
+  "vehicle": [
+    {
+      "id": "1",
+      "title":"van",
+      "exteriorPrice": 40,
+      "exteriorAndInteriorPrice": 140,
+      "image":"https://pics.freeicons.io/uploads/icons/png/10011672171636777626-512.png",
+      "description":"big car"
+    },
+    {
+      "id": "2",
+      "title":"sedan",
+      "exteriorPrice":20,
+      "exteriorAndInteriorPrice":120,
+      "image":"https://pics.freeicons.io/uploads/icons/png/11708348221666851072-512.png",
+      "description":"small car"
+    },
+    {
+      "id": "3",
+      "title":"5 pass car",
+      "exteriorPrice":30,
+      "exteriorAndInteriorPrice":130,
+      "image":"https://pics.freeicons.io/uploads/icons/png/17472710041544526147-512.png",
+      "description":"small car"
+    }
+  ]
+}
