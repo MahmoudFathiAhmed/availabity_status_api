@@ -96,7 +96,7 @@
     },
     {
         "_id": "646371b2b9c5a5ea9ca9d68e",
-        "isAvailable": false,
+        "isAvailable": true,
         "time": "21:45"
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "_id": "646371c3b9c5a5ea9ca9d69a",
-        "isAvailable": false,
+        "isAvailable": true,
         "time": "22:15"
     },
     {
